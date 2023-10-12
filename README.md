@@ -1,2 +1,2 @@
 # TestEnvironment
-Environment used for CS361 work
+This is the repository that I will beusing for my CS361 work.
